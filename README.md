@@ -1,11 +1,10 @@
 # Hello and welcome to my profile! I'm Stella. <br><sub><sup><em>Boas-vindas ao meu perfil, eu sou Stella.</em></sup></sub>
 
-### I'm a FullStack Web Dev Student 💻
-- 🌱 I’m currently learning Javascript, React
+### I'm an evolving Web Dev 💻
+- 🌱 I’m currently learning NodeJS
 - 🌎 Nationality: BR
-- ✨ Pronouns: any
 
-<sub><em>Sou estudante de Desenvolvimento Web FullStack. Atualmente vendo JavaScript e React</em></sub>
+<sub><em>Sou uma pessoa desenvolvedora em evolução. Atualmente vendo NodeJS</em></sub>
 
 <img align="right" height="200" style="border-radius: 50px;" src="https://i.imgur.com/CLUODaY.jpg">
 
