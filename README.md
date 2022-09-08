@@ -1,23 +1,20 @@
-# Hello and welcome to my profile! I'm Stella. <br><sub><sup><em>Boas-vindas ao meu perfil, eu sou Stella.</em></sup></sub>
+# Hello and welcome to my profile! I'm Stella. 
 
 ### I'm an evolving Web Dev 💻
-- 🌱 I’m currently learning: React, Typescript
+<!-- - 🌱 I’m currently learning: React, Typescript -->
 - 🌎 Nationality: BR
-
-<sub><em>Sou uma pessoa desenvolvedora em evolução. Atualmente vendo: React, Typescript</em></sub>
 
 <img align="right" height="200" style="border-radius: 50px;" src="https://i.imgur.com/CLUODaY.jpg">
 
 ##
 
-### Connect with me 👥 <sub><sup><em>Contatos</em></sup></sub>
+### Connect with me 👥
 
 <div style="display: inline_block"><br>
-  <a href = "mailto:stellalleal@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <!-- <a href = "mailto:stellalleal@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
   <a href="https://www.linkedin.com/in/stelleal" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <div align="right"><sub><sup><strong>gato</strong></sup></sub></div>
 </div>
-
 
 ##
 
